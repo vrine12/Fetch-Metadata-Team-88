@@ -91,6 +91,10 @@ input[type=submit]{
 .create-acct a{
     color: #2C5E9D;
 }
+#togglePassword {
+    margin-left: -30px;
+    cursor: pointer;
+}
 
 @media screen and (max-width: 800px) {
     
@@ -123,4 +127,6 @@ input[type=submit]{
     .create-acct{
         width: 100%;
     }
+
+
 }
